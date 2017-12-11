@@ -49,3 +49,7 @@ The model in this case Stepwise Logistic Regression is scored against a new data
 ![image](https://user-images.githubusercontent.com/16829371/33813244-a013ed92-ddf0-11e7-9a58-72fc7e96ca0c.png)
 
 ## 6.	Visualization
+
+![image](https://user-images.githubusercontent.com/16829371/33813299-be9d4da8-ddf0-11e7-8371-9b2f0d5ea1f9.png)
+
+
