@@ -44,3 +44,8 @@ Result shows that the Logistic Regression Step Wise Model seems to perform bette
 ## 5.	Scoring the Model
 The model in this case Stepwise Logistic Regression is scored against a new dataset to make predictions. This dataset have all the predictor variable values, which are passed through the model to predict the unknown target variable value. The prediction will be a number between 0 and 1, representing the likelihood of positive outcome.
 
+![image](https://user-images.githubusercontent.com/16829371/33813239-9a51c62c-ddf0-11e7-867d-8e320e5f8cdd.png)
+
+![image](https://user-images.githubusercontent.com/16829371/33813244-a013ed92-ddf0-11e7-9a58-72fc7e96ca0c.png)
+
+## 6.	Visualization
