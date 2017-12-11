@@ -19,3 +19,6 @@ I will use Stepwise Logistic Regression Model to automate the above process.
 For building Stepwise Logistic Regression Model I have selected all the possible variables. The Stepwise Regression tool in Alteryx automatically figures out all the possible variables it can calculate first and it takes this list of possible variables from the Logistic Regression Tool as an output.
 After running the stepwise logistic regression model, we will be able to reduce much of the unnecessary variables.
 
+![image](https://user-images.githubusercontent.com/16829371/33813138-13d112ba-ddf0-11e7-852b-a31289e6e4a7.png)
+
+## 3.	Decision Tree Model Using Alteryx
