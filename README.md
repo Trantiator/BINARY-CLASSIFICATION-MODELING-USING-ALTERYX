@@ -8,4 +8,14 @@ Before starting applying the algorithms on the given hotel loyalty data set, I h
 
 ## 1.	Building Logistic Regression Model
 
+![image](https://user-images.githubusercontent.com/16829371/33813053-aa0e787c-ddef-11e7-9b9d-b8423f2efecd.png)
+
+![image](https://user-images.githubusercontent.com/16829371/33813054-ad4ac86a-ddef-11e7-8971-d15fda724e52.png)
+
+The above process is bit of a manual process which requires selecting and deselecting variables of interest. 
+I will use Stepwise Logistic Regression Model to automate the above process.
+
+## 2.	Logistic Regression - Stepwise
+For building Stepwise Logistic Regression Model I have selected all the possible variables. The Stepwise Regression tool in Alteryx automatically figures out all the possible variables it can calculate first and it takes this list of possible variables from the Logistic Regression Tool as an output.
+After running the stepwise logistic regression model, we will be able to reduce much of the unnecessary variables.
 
