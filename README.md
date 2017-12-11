@@ -22,3 +22,13 @@ After running the stepwise logistic regression model, we will be able to reduce 
 ![image](https://user-images.githubusercontent.com/16829371/33813138-13d112ba-ddf0-11e7-852b-a31289e6e4a7.png)
 
 ## 3.	Decision Tree Model Using Alteryx
+
+![image](https://user-images.githubusercontent.com/16829371/33813103-f372a394-ddef-11e7-876a-ef0a60d17b7e.png)
+ 
+![image](https://user-images.githubusercontent.com/16829371/33813088-e3a2d84e-ddef-11e7-810c-b879f34b628c.png)
+
+![image](https://user-images.githubusercontent.com/16829371/33813091-e72ca828-ddef-11e7-8407-0014a0f7b745.png)
+
+
+## 4.	Comparing Logistic Regression Model with Decision Tree Model
+On Comparing the Logistic Regression Model against Decision Tree Model, the accuracy of Logistic Regression is better as compared to Decision Tree Model.
