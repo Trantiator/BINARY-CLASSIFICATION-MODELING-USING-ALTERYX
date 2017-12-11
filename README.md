@@ -32,3 +32,15 @@ After running the stepwise logistic regression model, we will be able to reduce 
 
 ## 4.	Comparing Logistic Regression Model with Decision Tree Model
 On Comparing the Logistic Regression Model against Decision Tree Model, the accuracy of Logistic Regression is better as compared to Decision Tree Model.
+
+![image](https://user-images.githubusercontent.com/16829371/33813205-64167d28-ddf0-11e7-91e3-9d6be6526a98.png)
+
+![image](https://user-images.githubusercontent.com/16829371/33813209-6975a3b6-ddf0-11e7-9345-9e23259d8bb8.png)
+
+![image](https://user-images.githubusercontent.com/16829371/33813212-6eff56b0-ddf0-11e7-8ab0-8fb94ec7c47c.png)
+
+Result shows that the Logistic Regression Step Wise Model seems to perform better than the Decision Tree model.
+
+## 5.	Scoring the Model
+The model in this case Stepwise Logistic Regression is scored against a new dataset to make predictions. This dataset have all the predictor variable values, which are passed through the model to predict the unknown target variable value. The prediction will be a number between 0 and 1, representing the likelihood of positive outcome.
+
