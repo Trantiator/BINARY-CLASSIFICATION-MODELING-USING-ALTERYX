@@ -1,4 +1,4 @@
-# BINARY-CLASSIFICATION-MODELING-USING-ALTERYX
+# BINARY CLASSIFICATION MODELING
 Problem Statement: - 
 Whether the hotel customer will redeem the yearly subscription or not ?
 I have used Alteryx to develop Logistic Regression, Step wise Logistic Regression and Decision Tree Model to predict binary outcomes by analyzing the outcome’s relationship with one or more predictor variables.
